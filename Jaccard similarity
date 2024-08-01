@@ -1,0 +1,6 @@
+doc1 = "apple banana everyone like likey watch card holder"
+doc2 = "apple banana coupon passport love you"
+
+# 토큰화
+tokenized_doc1 = doc1.split()
+tokenized_doc2 = doc2.split()
